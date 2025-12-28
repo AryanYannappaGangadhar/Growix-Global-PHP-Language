@@ -1,6 +1,6 @@
 -- Database Schema for Growix Global Attendance Portal
 
-USE u786203048_DataBase;
+USE Your Actucal database name here ;
 
 
 -- Users Table
