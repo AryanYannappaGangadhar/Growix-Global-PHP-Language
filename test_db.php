@@ -3,9 +3,9 @@
 // Access this at: yourdomain.com/test_db.php
 
 $host = 'localhost';
-$dbname = 'u786203048_DataBase';
-$user = 'u786203048_GrowixGlobal';
-$password = 'Itachi@1990';
+$dbname = 'Database name';
+$user = 'User name';
+$password = 'Password';
 
 echo "<h2>Database Connection Test</h2>";
 echo "<p><strong>Host:</strong> $host</p>";
